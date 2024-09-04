@@ -1,0 +1,15 @@
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\bin\Debug\net8.0\OOAD test1.exe
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\bin\Debug\net8.0\expense.txt
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\bin\Debug\net8.0\OOAD test1.deps.json
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\bin\Debug\net8.0\OOAD test1.runtimeconfig.json
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\bin\Debug\net8.0\OOAD test1.dll
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\bin\Debug\net8.0\OOAD test1.pdb
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\OOAD test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\OOAD test1.AssemblyInfoInputs.cache
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\OOAD test1.AssemblyInfo.cs
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\OOAD test1.csproj.CoreCompileInputs.cache
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\OOAD test1.dll
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\refint\OOAD test1.dll
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\OOAD test1.pdb
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\OOAD test1.genruntimeconfig.cache
+C:\Users\palav\source\repos\OOAD test1\OOAD test1\obj\Debug\net8.0\ref\OOAD test1.dll
